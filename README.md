@@ -49,7 +49,7 @@ It imports the necessary dependencies, including Streamlit for creating the web 
 
 Note: This block of CSS code in `assets/style.css` defines some custom styles that are used in the Streamlit application for breast cancer prediction.
 
-### [App Link]([(https://predictocare-nupoorsagar.streamlit.app/)])
+### [App Link](https://predictocare-nupoorsagar.streamlit.app/)
 
 
 
